@@ -1,0 +1,58 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.main-header {
+    display: flex;
+}
+ul {
+    width: 100%;
+    margin: 0 0 0 450px;
+    list-style-type: none;
+}
+.first-li{
+    width: 100px;
+    display: inline;
+    justify-content: space-between;
+    padding: 20px 15px;
+    text-decoration: none;
+    float: left; }
+
+    .nav-link1 {
+        color: red;
+    }
+.nav-link2 {
+    color: blue;
+}
+.logo  img{
+    margin-top: 5px;
+    position: absolute;
+}
+ul{
+  
+    list-style-type: none;
+}
+
+.main-picture{
+    margin-top: 30px;
+}
+.title {
+    color: purple;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-left: 90px;
+    text-decoration:solid;
+    
+}
+.first-span {
+    color: purple;
+    margin-left: 90px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.first-div {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+
+

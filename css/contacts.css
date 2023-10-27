@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main-header {
+    display: flex;
+}
+ul {
+    width: 100%;
+    margin: 0 0 0 450px;
+    list-style-type: none;
+}
+.first-li{
+    width: 100px;
+    display: inline;
+    justify-content: space-between;
+    padding: 20px 15px;
+    text-decoration: none;
+    float: left; }
+
+    .nav-link1 {
+        color: red;
+    }
+.nav-link2 {
+    color: blue;
+}
+.logo  img{
+    position: absolute;
+    margin-top: 5px;
+}
+ul{
+  
+    list-style-type: none; }
+
+    .ford-car {
+        margin-top: 50px;
+    }
+
+    .third-title {
+        color:purple;
+        font-family: 'Nunito Sans', sans-serif;
+        margin-left: 120px;
+        text-decoration:solid; 
+    }
+        
+    .third-span {
+        color: purple;
+        margin-left: 120px;
+        font-family: 'Nunito Sans', sans-serif;
+    }
